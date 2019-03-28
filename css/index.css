@@ -1,0 +1,148 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.container{
+    margin-top: 1%;
+}
+.content-left{
+    background: #1C4267;
+    padding-top: 2%;
+    color: rgb(255, 255, 255);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.content-right{
+    background: #aca8a8;
+    padding-top: 2%;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+/* icons fonts-size */
+
+.ifs-50px{
+    font-size: 50px;
+}
+
+.ifs-30px{
+    font-size: 30px;
+}
+
+.heading-text{
+    width: auto;
+    font-size: 20px;
+    font-weight: bold;
+}
+.br-3px{
+    border: 3px solid white;
+    border-radius: 10px;
+}
+.fs-align-c-15px{
+    font-size: 12px;
+    text-align: center;
+}
+
+/* About me content */
+.about-me{
+    /* background: orange; */
+    
+}
+
+
+.about-me-details{
+    font-size: 18px;
+}
+
+/* end of about me */
+
+/* hobbies and interest content */
+.hobbies-interest{
+    /* background: black; */
+}
+
+/* social medias content */
+.social-media{
+    /* background: green; */
+}
+
+.social-meida-icons-decoration{
+    color: white;
+    font-size: 35px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+/* contact content */
+.contact{
+    /* background: red; */
+    
+}
+
+/* language */
+.langaugae{
+    /* background: #FFCD42; */
+    /* height: 50px; */
+}
+
+
+
+/* profile  */
+
+.profile-container{
+    background: #C3CED2;
+    float: left;
+    box-shadow: 5px 5px 15px black;
+}
+.profile-image{
+    float: left;
+}
+
+.profile-details{
+    float: right;
+}
+.name{
+    text-shadow: 5px 5px 10px  black;
+    font-size: 35px;
+    font-weight: bolder;
+}
+
+.profile-details-font-size{
+    font-size: 20px;
+}
+
+/* skills and experience details */
+.skills-experience{
+    background: #EAEAEA;   
+}
+.skills-experience-heading{
+    font-size: 20px;
+    font-weight: bold
+}
+.experience-details{
+    color: #aca8a8;
+}
+
+/* education details */
+.education-details-container{
+    background: #EAEAEA;
+}
+
+.education-details-heading{
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.education-details-heading-content{
+    font-size: 20px;
+}
+
+.educationdetails1-container, .educationdetails2-container, .educationdetails3-container{
+    background: white;
+    border-radius: 5px;
+}
+
+.school-collage-details, .passed-year-details, .percentage-details{
+    color: #aca8a8;
+}
